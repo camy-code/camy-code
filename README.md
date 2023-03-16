@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning how to code and make things that influence people. Whether that is through humour or a useful program
 - 🌱 I’m currently learning ... python!!
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... please dm me on IG @warburtoncamden
+- 📫 How to reach me ... please email me at camden.warbuton@ucalgary.ca
 
 <!---
 camy-code/camy-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
